@@ -1,3 +1,4 @@
+pygame小游戏
 Warrior:
 	W
                                 +   F替身         G攻击
